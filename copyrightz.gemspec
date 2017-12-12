@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["test@test.com"]
 
   spec.summary       = %q{Copyrightz makes you add a full automatic copyright html tag inside your Rails App.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = %q{}
+  spec.homepage      = "https://github.com/Prometheus88/Copyrightz
   spec.license       = "MIT"
 
 
