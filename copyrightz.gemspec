@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Copyrightz makes you add a full automatic copyright html tag inside your Rails App.}
   spec.description   = %q{}
-  spec.homepage      = "https://github.com/Prometheus88/Copyrightz
+  spec.homepage      = "https://github.com/Prometheus88/Copyrightz"
   spec.license       = "MIT"
 
 
