@@ -6,7 +6,7 @@ require "copyrightz/version"
 Gem::Specification.new do |spec|
   spec.name          = "copyrightz"
   spec.version       = Copyrightz::VERSION
-  spec.authors       = ["CopyRightz]
+  spec.authors       = ["CopyRightz"]
   spec.email         = ["TODO: Write your email address"]
 
   spec.summary       = %q{Copyrightz makes you add a full automatic copyright html tag inside your Rails App.}
